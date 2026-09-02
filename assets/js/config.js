@@ -11,7 +11,10 @@ window.CES = {
     whatsappNum:  "905322477692",              // uluslararası format, sadece rakam
     whatsappText: "+90 532 247 76 92",         // ekranda görünen hâli
     instagram:    "@communityeventservices",
-    instagramUrl: "https://www.instagram.com/communityeventservices/"
+instagramUrl: "https://www.instagram.com/communityeventservices/",
+
+hubInstagram:    "Community Hub Istanbul",
+hubInstagramUrl: "https://www.instagram.com/community.hub.istanbul/"
   },
 
   /* --- Anasayfa rakamları ------------------------------------------------
